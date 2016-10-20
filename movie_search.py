@@ -2,10 +2,9 @@ import requests
 import visual
 
 
-# Using OMBDb API for movie and show info
+# Using OMBDb API for movie and show info, no api key needed
 
 #  Generate movie object
-
 def get_movie(movie, youtube):
     url = "https://www.omdbapi.com/?t=" + movie + "&plot=short&r=json"
     movie_info = requests.get(url).json()
@@ -13,6 +12,7 @@ def get_movie(movie, youtube):
     plot = movie_info[u'Plot']
     poster = movie_info[u'Poster']
     return visual.Movie(title, plot, poster, youtube)
+
 
 # Generate show object
 def get_show(show, youtube):
