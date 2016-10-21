@@ -1,12 +1,13 @@
-# Movie Trailer
+# Fresh
 ### By Ian Agpawa
 ##### This repo is for a movie trailer website of my favorite movies and shows.  The OMBDb API is utilized to the obtained movie and show info.    
 
 
 ### Quick Start
--Clone the repo: 'git clone https://github.com/TheArtilect/movie-trailer.git'
+-Clone the repo: `git clone https://github.com/TheArtilect/movie-trailer.git`
 
-You can run the app by either opening the fresh.html file with your browser or by executing 'python movie_list.py' in the terminal while in the project directory.  Executing the python command will overwrite the fresh.html file if there are any changes made in either the 'movie_list.py' file or 'fresh.py' file.
+
+You can run the app by either opening the `fresh.html` file with your browser or by executing `python movie_list.py` in the terminal while in the project directory.  Executing the python command will overwrite the `fresh.html` file if there are any changes made in either the `movie_list.py` file or `fresh.py` file.
 
 
 ### What's included
@@ -26,14 +27,12 @@ movie-trailer/
    ├── video.pyc
    ├── visual.py
    └── visual.pyc
-
-
 ```
 
 ## Creator
 
 **Ian Agpawa**
 
-- <a href='https://ian-agpawa.herokuapp.com' target='_blank'>Portfolio</a>
-- <a href='https://github.com/TheArtilect' target='_blank'>Github</a>
-- < agpawaji@gmail.com >
+[Portfolio](https://ian-agpawa.herokuapp.com "title" target="_blank")
+[Github](https://github.com/TheArtilect "title" target="_blank")
+ agpawaji@gmail.com
