@@ -33,8 +33,8 @@ movie-trailer/
 
 **Ian Agpawa**
 
-[Portfolio](https://ian-agpawa.herokuapp.com "title" target="_blank")
+[Portfolio](https://ian-agpawa.herokuapp.com)
 
-[Github](https://github.com/TheArtilect "title" target="_blank")
+[Github](https://github.com/TheArtilect)
 
  agpawaji@gmail.com
